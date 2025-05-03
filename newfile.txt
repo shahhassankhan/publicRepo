@@ -1,2 +1,3 @@
 just trying remote branch trachking
 okay i just remote branching refering to the last changes made to remote repo
+it is like a book you read last time and open that book again to the page where you closed
