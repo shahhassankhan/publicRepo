@@ -1,3 +1,6 @@
 just trying remote branch trachking
 okay i just remote branching refering to the last changes made to remote repo
 it is like a book you read last time and open that book again to the page where you closed
+Learn how to program:
+  write along with instructor it is the best to learn 
+  remember the quote  i hear and forget i see and i remember i do and i understand
